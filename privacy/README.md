@@ -45,3 +45,8 @@ Bulharskou verzi zahrnout do existující půlroční revize společně s česko
 Vydána finální ES verze 1.0 pro www.stepar.es: `es/privacy.html`, `es/privacy-current.html`, `privacy/es-source.md`, archiv `archive/es/privacy-2026-09-11-v1.0.html` a `privacy/iframe-es.txt`.
 URL https://vaclavstepar.github.io/stepar-legal/es/privacy.html
 Zahrnout ES do stávající půlroční revize spolu s CZ a BG; případné společné změny promítat do všech dotčených existujících jazyků. Místní kontakt info@stepar.es, úřad AEPD, zachována česká právní identita a české účetní povinnosti. Nevytvářet domnělý španělský subjekt ani plošně převádět české účetní lhůty na španělské. Technická omezení auditu z českého podkladu nadále platí. OP ani odstoupení neměněny.
+
+## Francouzská verze — 11. 9. 2026
+Vydána finální FR verze 1.0 pro www.stepar.fr: `fr/privacy.html`, `fr/privacy-current.html`, `privacy/fr-source.md`, archiv `archive/fr/privacy-2026-09-11-v1.0.html`, `privacy/iframe-fr.txt`.
+URL https://vaclavstepar.github.io/stepar-legal/fr/privacy.html
+Zahrnout FR do stávající půlroční revize spolu s CZ, BG a ES. Zachovat kontakt info@stepar.fr, CNIL a českou identitu správce. Účetní lhůty jsou povinnosti české společnosti, nejde o vytvoření francouzského subjektu. Technická omezení prověření uvedená výše trvají; nezaměňovat lokalizaci za kompletní audit implementace. OP a odstoupení beze změny.

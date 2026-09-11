@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Politique de confidentialité | ŠTĚPAŘ</title><style>body{margin:0;font:14px/1.6 Arial,sans-serif}.loading{padding:20px}</style></head><body>
+<div id="legal-content" class="loading" aria-live="polite">Chargement de la politique de confidentialité…</div>
+<script>
+(async function(){
+ const target=document.getElementById('legal-content');
+ try{
+  const response=await fetch('privacy-current.html?t='+Date.now(),{cache:'no-store'});
+  if(!response.ok) throw new Error('HTTP '+response.status);
+  const doc=new DOMParser().parseFromString(await response.text(),'text/html');
+  document.title=doc.title||document.title;
+  for(const style of doc.querySelectorAll('style')) document.head.appendChild(style.cloneNode(true));
+  target.className=''; target.replaceChildren(...Array.from(doc.body.childNodes));
+ }catch(error){
+  target.textContent='Impossible de charger le texte. ';
+  const link=document.createElement('a');link.href='privacy-current.html';link.textContent='Ouvrir directement le texte';target.appendChild(link);
+ }
+})();
+</script><noscript><p><a href="privacy-current.html">Ouvrir la politique de confidentialité</a></p></noscript></body></html>
