@@ -1,6 +1,6 @@
-# Politika privatnosti
+# Zaštita osobnih podataka
 
-**Verzija 1.0 · Na snazi od 11. rujna 2026.**
+**Verzija 1.1 · Na snazi od 11. rujna 2026.**
 
 ### 1. Tko je voditelj obrade vaših podataka?
 

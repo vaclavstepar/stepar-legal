@@ -55,3 +55,6 @@ Zahrnout FR do stávající půlroční revize spolu s CZ, BG a ES. Zachovat kon
 Vydána finální HR verze 1.0 pro www.stepar.hr: `hr/privacy.html`, `hr/privacy-current.html`, `privacy/hr-source.md`, archiv `archive/hr/privacy-2026-09-11-v1.0.html`, `privacy/iframe-hr.txt`.
 URL https://vaclavstepar.github.io/stepar-legal/hr/privacy.html
 Zahrnout HR do stávající půlroční revize spolu s CZ, BG, ES a FR. Zachovat kontakt info@stepar.hr a AZOP, českou identitu správce a označení českých účetních povinností. Nezavádět domnělý chorvatský právní subjekt. Potvrzené služby a lhůty odpovídají české verzi. Technické meze ověření výše nadále platí; lokalizace není úplný cookie audit. OP ani odstoupení neměněny.
+
+## Chorvatský název — v1.1
+Na pokyn uživatele je nadpis a titulek chorvatské verze „Zaštita osobnih podataka“. Zachovat tento název při revizích. Změna pouze názvu, obsah zásad a stabilní URL beze změny. Archiv archive/hr/privacy-2026-09-11-v1.1.html.
