@@ -78,3 +78,8 @@ Zahrnout RO do stávající půlroční revize spolu s ostatními vydanými jazy
 Vydána finální slovinská verze 1.0 pro www.stepar.si pod názvem „Politika zasebnosti“: `si/privacy.html`, `si/privacy-current.html`, `privacy/si-source.md`, archiv `archive/si/privacy-2026-09-11-v1.0.html`, `privacy/iframe-si.txt`. Adresář si odpovídá doméně; HTML jazyk správně sl.
 URL https://vaclavstepar.github.io/stepar-legal/si/privacy.html
 Zahrnout slovinskou verzi do stávající půlroční revize spolu s ostatními vydanými jazyky. Zachovat název, kontakt info@stepar.si a Informacijski pooblaščenec, Dunajska cesta 22, 1000 Ljubljana, gp.ip@ip-rs.si. Česká identita správce a české účetní povinnosti zachovány. Potvrzené služby a lhůty odpovídají společnému podkladu. Technické meze prověření výše nadále platí; lokalizace není úplný audit cookies. OP ani odstoupení neměněny.
+
+## Slovenská verze — 11. 9. 2026
+Vydána finální SK verze 1.0 pro www.stepar.sk pod názvem „Ochrana osobných údajov“: `sk/privacy.html`, `sk/privacy-current.html`, `privacy/sk-source.md`, archiv `archive/sk/privacy-2026-09-11-v1.0.html`, `privacy/iframe-sk.txt`.
+URL https://vaclavstepar.github.io/stepar-legal/sk/privacy.html
+Zahrnout SK do stávající půlroční revize spolu s ostatními vydanými jazyky. Zachovat kontakt info@stepar.sk, slovenské pojmy prevádzkovateľ a sprostredkovateľ a Úrad na ochranu osobných údajov Slovenskej republiky. Aktuální adresa ověřena na oficiálním webu: Galvaniho Business Centrum II, Galvaniho 7/B, 821 04 Bratislava. Nepřebírat starou adresu Hraničná. Česká identita správce a české účetní povinnosti zachovány. Technické meze prověření výše nadále platí; lokalizace není úplný audit cookies. OP ani odstoupení neměněny.
