@@ -40,3 +40,8 @@ Kontrolovat oficiální zdroje EU a zemí provozovaných e-shopů; změny promí
 Vydána `bg/privacy.html` (stabilní loader), `bg/privacy-current.html`, zdroj `privacy/bg-source.md`, archiv `archive/bg/privacy-2026-09-11-v1.0.html` a kód `privacy/iframe-bg.txt`.
 Adresa: https://vaclavstepar.github.io/stepar-legal/bg/privacy.html
 Bulharskou verzi zahrnout do existující půlroční revize společně s českou. Při změnách společných faktů upravit obě relevantní verze. Zachovat bulharský jazyk a KZLD, národní označení článků GDPR (а, б, в, е), českou identitu správce a jasné označení českých účetních zákonů. Kontakt info@stepar.bg je zveřejněný na stepar.bg; info@stepar.cz ponechán jako alternativní centrální kontakt. Nejde o nové vytvoření právního subjektu v Bulharsku. Úplný audit bulharské cookie implementace nebyl proveden; stejná omezení technického ověření jako u české verze.
+
+## Španělská verze — 11. 9. 2026
+Vydána finální ES verze 1.0 pro www.stepar.es: `es/privacy.html`, `es/privacy-current.html`, `privacy/es-source.md`, archiv `archive/es/privacy-2026-09-11-v1.0.html` a `privacy/iframe-es.txt`.
+URL https://vaclavstepar.github.io/stepar-legal/es/privacy.html
+Zahrnout ES do stávající půlroční revize spolu s CZ a BG; případné společné změny promítat do všech dotčených existujících jazyků. Místní kontakt info@stepar.es, úřad AEPD, zachována česká právní identita a české účetní povinnosti. Nevytvářet domnělý španělský subjekt ani plošně převádět české účetní lhůty na španělské. Technická omezení auditu z českého podkladu nadále platí. OP ani odstoupení neměněny.
