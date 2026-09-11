@@ -2,7 +2,7 @@
 
 **PRACOVNÍ NÁVRH — není určen k nahrazení platných zásad na e-shopu.**
 
-Česká verze 0.2 · 11. 9. 2026. Označené údaje je nutné doplnit před vydáním konečné verze.
+Česká verze 0.3 · 11. 9. 2026. Identifikační údaje a právní podklady jsou doplněny. Konečné vydání závisí na ověření skutečného ukládání dat a technického nastavení služeb popsaného níže.
 
 
 ### 1. Kdo vaše údaje zpracovává
@@ -44,13 +44,15 @@ U kontaktních osob právnických osob se komunikace a vyřízení obchodního v
 
 | Služba nebo příjemce | Důvod a rozsah zpřístupnění |
 |---|---|
-| Provozovatel e-shopové platformy a webhostingu **[DOPLNIT PRO PŘÍSLUŠNOU DOMÉNU: WEBY24 / SHOPIFY A SMLUVNÍ SPOLEČNOST]** | Technické zajištění webu, databáze objednávek, zákaznických účtů a provozní komunikace |
+| Weby24 — **MOVIS, s.r.o., IČO 29097177**, T. G. Masaryka 838/31, 360 01 Karlovy Vary | Technické zajištění webu, databáze objednávek, zákaznických účtů a provozní komunikace |
 | Dopravci GLS a Packeta a jejich doručovací partneři | Jméno, doručovací údaje, kontakt a údaje o zásilce, případně částka dobírky, pro přepravu a doručení |
 | Poskytovatelé plateb GoPay a PayPal | Údaje nutné k provedení, identifikaci a ověření zvolené platby nebo vrácení peněz |
 | **Outsourcing Solution CZ s.r.o., IČO 25514121**, Záhřebská 157/24, Vinohrady, 120 00 Praha 2; služba DragonCloud | Hosting účetního systému POHODA, ve kterém jsou zpracovávány objednávky, faktury, identifikační a kontaktní údaje zákazníků a údaje o úhradách |
 | Poskytovatel služby Smartsupp | Provoz zákaznického chatu a AI asistenta; zprávy, údaje, které do chatu zadáte, a související technické údaje |
 | Poskytovatelé služeb Google Analytics a Google Ads | Analytika, měření reklamy a remarketing v rozsahu uděleného souhlasu |
-| Poskytovatelé IT správy, e-mailových služeb a případně externí účetní či právní poradci | Zajištění příslušné podpory a služeb v nezbytném rozsahu **[OVĚŘIT SKUTEČNÉ PŘÍJEMCE]** |
+| Poskytovatelé IT správy, e-mailových služeb a případně externí účetní či právní poradci | Zajištění příslušné podpory a služeb v nezbytném rozsahu |
+| Seznam.cz, a.s., IČO 26168685 | Technické údaje o návštěvě pro reklamní nástroj nasazený na českém webu; personalizace reklamy podle souhlasu |
+| GitHub, Inc. — GitHub Pages | Technické doručení tohoto vloženého dokumentu: IP adresa, požadavek na stránku a související provozní údaje |
 | Orgány veřejné moci | Pokud zpřístupnění vyžaduje právní předpis nebo je nezbytné v příslušném řízení |
 
 Platební a přepravní služby volíte z nabídky příslušného e-shopu. Jejich poskytovatelé mohou pro vlastní zákonné a provozní účely působit jako samostatní správci; takové zpracování upravují také jejich vlastní zásady. Dodavatelé, kteří zpracovávají údaje naším jménem, mají postavení zpracovatelů a postupují podle smluvních podmínek zpracování.
@@ -65,7 +67,7 @@ Do chatu prosím neposílejte hesla, úplné údaje platební karty, lékařské
 
 Funkci nahrávání návštěv, tedy záznamů průchodu návštěvníka webem, nepoužíváme. To nevylučuje uchovávání samotné chatové konverzace a technických údajů potřebných pro chat. AI může vytvořit nepřesnou odpověď; při nejasnostech se obraťte na naši obsluhu.
 
-**[OVĚŘIT PŘED ZVEŘEJNĚNÍM: AI asistent neposuzuje nároky zákazníků ani nepřijímá rozhodnutí s právními či obdobně významnými účinky. Po ověření nahradit touto větou bez poznámky.]**
+Role asistenta popsaná v těchto zásadách je poskytování zákaznické podpory. Závazné vyřízení objednávky, reklamace nebo odstoupení řešte prostřednictvím našich uvedených kontaktů. Rozsah automatických akcí asistenta musí být před konečným vydáním tohoto dokumentu porovnán s jeho skutečným nastavením.
 
 ### 6. Google Analytics, reklama a cookies
 
@@ -75,7 +77,11 @@ Rozšířené konverze Google Ads nepoužíváme. Google Merchant Center slouž�
 
 Nezbytné cookies umožňují fungování webu, například košíku, přihlášení a uložení volby souhlasu. Analytické a reklamní cookies a obdobné technologie používáme na základě souhlasu. Souhlas můžete odmítnout nebo později odvolat, aniž by to bránilo nákupu. Odvolání nemění zákonnost dřívějšího zpracování.
 
-Své volby upravíte prostřednictvím **[DOPLNIT FUNKČNÍ ODKAZ NA NASTAVENÍ COOKIES]**. Podrobný přehled používaných technologií, jejich poskytovatelů, účelů a doby platnosti najdete **[DOPLNIT ODKAZ NA OVĚŘENÝ PŘEHLED COOKIES]**. Cookies lze také odstranit či blokovat v prohlížeči; blokování nezbytných cookies může omezit funkčnost webu.
+Své volby upravíte v cookie liště volbou **„Upravit nastavení“** a následně **„Uložit a zavřít“**. Pro odmítnutí slouží **„Odmítnout vše“**; k opětovnému otevření nastavení slouží odkaz **„Cookies“** v patičce e-shopu. Ovládání je součástí samotného e-shopu, nikoli tohoto vloženého dokumentu. Cookies lze také odstranit či blokovat v prohlížeči; blokování nezbytných cookies může omezit funkčnost webu.
+
+Na českém webu je rovněž nasazen retargetingový kód Seznam.cz. Zpracování u poskytovatele popisují jeho [zásady ochrany údajů](https://o-seznam.cz/pravni-informace/ochrana-udaju/). Tato informace vychází z českého webu a nepředstavuje tvrzení o nasazení Seznamu na ostatních jazykových e-shopech.
+
+**Stav technického ověření:** skutečný soupis cookies, jejich životnost a chování všech značek při odmítnutí a odvolání souhlasu dosud nebyly ověřeny v prohlížeči. Tento návrh proto není potvrzením, že technické nastavení odpovídá popsaným pravidlům.
 
 Více o zpracování údajů společností Google: [Jak Google používá údaje z partnerských webů](https://policies.google.com/technologies/partner-sites?hl=cs).
 
@@ -83,26 +89,33 @@ Více o zpracování údajů společností Google: [Jak Google používá údaje
 
 Některé využívané globální služby a jejich další dodavatelé mohou zpracovávat údaje také mimo Evropský hospodářský prostor. Rozhodující je konkrétní příjemce a způsob poskytování služby, včetně vzdáleného přístupu k údajům.
 
-**[DOPLNIT PŘED ZVEŘEJNĚNÍM: konkrétní příjemce/službu, země a skutečně použitý mechanismus předávání pro Google, PayPal, Smartsupp a případně Shopify. U DragonCloudu a Weby24 ověřit umístění dat a přístup podpory. Nelze bez podkladů tvrdit, že všechny údaje zůstávají v EU.]**
+U služeb Google může docházet ke zpracování na globální infrastruktuře včetně USA. Google zveřejňuje použití standardních smluvních doložek a pro způsobilá předání do USA rámce **EU–US Data Privacy Framework**. Podrobnosti uvádí v [pravidlech pro mezinárodní přenosy](https://policies.google.com/privacy/frameworks?hl=cs).
 
-Při takovém předávání musí být zajištěna ochrana podle kapitoly V GDPR, například na základě rozhodnutí Evropské komise o odpovídající ochraně nebo standardních smluvních doložek a potřebných doplňkových opatření. Informace o konkrétních zárukách a možnost získat jejich kopii poskytujeme na info@stepar.cz.
+Evropským poskytovatelem PayPalu je **PayPal (Europe) S.à r.l. et Cie, S.C.A.**, 22–24 Boulevard Royal, L-2449 Lucemburk. Pro vnitroskupinová předání používá schválená závazná podniková pravidla; pro další předání podle okolností rozhodnutí o odpovídající ochraně či standardní smluvní doložky. Podrobnosti a přístup k těmto pravidlům obsahují [zásady PayPal](https://www.paypal.com/cz/legalhub/paypal/privacy-full).
+
+Smartsupp používá další dodavatele infrastruktury a AI. Evropské sídlo dodavatele samo o sobě nezaručuje, že veškeré zpracování a přístup k údajům probíhají pouze v EHP. Seznam dodavatelů a odkazy na jejich podmínky jsou v [seznamu dalších zpracovatelů Smartsupp](https://help.smartsupp.com/en/articles/12647685-list-of-sub-processors); povinnosti Smartsupp upravují [podmínky zpracování](https://help.smartsupp.com/en/articles/12647343-dpa-data-processing-terms). Konkrétní přenosy pro aktivní funkce našeho účtu a jejich smluvní záruky jsou dosud předmětem ověření.
+
+Tento dokument se načítá ze služby GitHub Pages. GitHub zpracovává provozní údaje také v USA a dalších zemích a zveřejňuje použití standardních smluvních doložek a EU–US Data Privacy Framework; podrobnosti uvádí v [zásadách ochrany osobních údajů](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+U Weby24 a DragonCloudu nebylo ze získaných podkladů ověřeno smluvní umístění všech dat ani případný přístup podpory ze třetích zemí. Netvrdíme proto, že všechny využívané služby zpracovávají údaje výhradně v EU. Informace o konkrétních zárukách a možnost získat jejich kopii poskytujeme na info@stepar.cz.
 
 ### 8. Jak dlouho údaje uchováváme
 
 Údaje uchováváme podle účelu. Údaje pro vyřízení nákupu potřebujeme po dobu plnění smlouvy; vybrané doklady mohou být následně uchovány z důvodu účetních a daňových povinností nebo ochrany práv. Výmaz zákaznického účtu proto neznamená výmaz dokladů, které musíme uchovat.
 
-**[NÁSLEDUJÍCÍ TABULKU DOPLNIT PODLE SKUTEČNÉHO SKARTAČNÍHO A TECHNICKÉHO NASTAVENÍ. Číselné lhůty nebyly provozovatelem potvrzeny.]**
-
 | Kategorie | Doba uchování nebo rozhodující kritérium |
 |---|---|
-| Objednávky a související komunikace | Do vyřízení smlouvy a následně pouze v rozsahu potřebném pro zákonné povinnosti a ochranu nároků; **doplnit konkrétní běžnou lhůtu a její počátek** |
-| Faktury, účetní a daňové záznamy, včetně OSS | Po dobu stanovenou pro příslušný typ záznamu českými a použitelnými unijními daňovými a účetními předpisy; **doplnit lhůty podle typu dokladu a správný počátek jejich běhu** |
-| Reklamace, odstoupení a spory | Po dobu vyřízení a následně pro ochranu nároků do uplynutí příslušných lhůt, při sporu do jeho pravomocného ukončení a vypořádání; **doplnit běžnou lhůtu** |
-| Zákaznický účet | Po dobu jeho vedení; **doplnit pravidlo pro neaktivní účty a výmaz** |
-| Běžné dotazy a chaty | **Doplnit skutečnou dobu uchování ve Smartsupp a e-mailu**, s výjimkou komunikace nutné k doložení konkrétní transakce nebo nároku |
-| Google Analytics | **Doplnit dobu uchování údajů uživatelů a událostí dle administrace**; odlišit ji od anonymních souhrnných statistik |
-| Remarketing a cookies | **Doplnit délku členství v publiku a dobu platnosti cookies**; odvoláním souhlasu ukončit navazující zpracování založené na souhlasu |
-| Bezpečnostní záznamy, evidence souhlasů a zálohy | **Doplnit příslušné lhůty, jejich účel a cyklus přepisu záloh** |
+| Objednávky a související komunikace | Po dobu vyřízení objednávky, dodání, úhrady a případného vrácení plnění. Následně pouze údaje potřebné pro níže uvedené účetní povinnosti nebo konkrétní právní nároky. |
+| Daňové doklady k DPH | 10 let od konce zdaňovacího období, ve kterém se plnění uskutečnilo, podle § 35 zákona č. 235/2004 Sb. |
+| Účetní doklady, které nepodléhají delší povinnosti | 5 let od konce účetního období, kterého se týkají, podle § 31 zákona č. 563/1991 Sb. Je-li doklad zároveň daňovým dokladem k DPH, platí delší desetiletá lhůta. |
+| Záznamy pro režim OSS, pokud se na dané plnění vztahuje | 10 let od konce kalendářního roku, ve kterém se transakce uskutečnila. |
+| Reklamace, odstoupení a právní nároky | Do vyřízení požadavku a vypořádání plnění; nezbytné důkazy následně do uplynutí promlčecí lhůty příslušného nároku. U probíhajícího sporu se zohledňuje jeho skončení, vypořádání a běh lhůt pro výkon rozhodnutí. Toto kritérium neopravňuje k uchovávání celé zákaznické databáze bez omezení. |
+| Zákaznický účet | Po dobu trvání účtu; po jeho zrušení se odděleně uchovají jen údaje s jiným trvajícím právním důvodem, zejména povinné doklady. Automatický výmaz neaktivních účtů nebyl ověřen. |
+| Běžné dotazy a chaty | Účelem je vyřízení dotazu; zprávy potřebné jako doklad objednávky nebo nároku spadají do odpovídajících řádků výše. Skutečná lhůta výmazu ostatních zpráv ve Smartsupp a e-mailu dosud není ověřena. |
+| Google Analytics, reklamní publika a cookies | Zpracování založené na souhlasu se ukončuje při jeho odvolání. Konkrétní nastavení uchování údajů a událostí v Analytics, členství v reklamních publikách a životnost jednotlivých cookies dosud nejsou ověřeny; jde o odlišné lhůty. |
+| Bezpečnostní záznamy, evidence souhlasů a zálohy | Účelem je řešení bezpečnostních incidentů, prokázání souhlasu a obnova po poruše. Skutečné provozní lhůty a cyklus přepisu záloh u dodavatelů dosud nejsou ověřeny. |
+
+Zákonné uchování může být prodlouženo, pokud to vyžaduje konkrétní probíhající řízení nebo jiná zákonná povinnost. Uvedené lhůty pro doklady nejsou automatickou lhůtou pro všechny údaje o zákazníkovi. Zákonné podklady: [zákon o DPH](https://www.zakonyprolidi.cz/cs/2004-235), [zákon o účetnictví](https://www.zakonyprolidi.cz/cs/1991-563), [Evropská komise — uchovávání záznamů OSS](https://vat-one-stop-shop.ec.europa.eu/one-stop-shop/record-keeping-and-audits-oss_en).
 
 Po skončení potřebné doby údaje odstraníme nebo nevratně anonymizujeme. Údaje potřebné pro konkrétní probíhající řízení uchováváme odděleně od běžného provozního využití.
 
@@ -120,4 +133,4 @@ Stížnost můžete podat u **Úřadu pro ochranu osobních údajů**, Pplk. Soc
 
 Zásady aktualizujeme při změně zpracování nebo příslušných požadavků. Aktuální verzi a datum její účinnosti zveřejňujeme na této stránce. Pokud změna vyžaduje nový souhlas, vyžádáme si jej samostatně; samotné zveřejnění nového textu jej nenahrazuje.
 
-**Datum účinnosti: [DOPLNIT PŘI ZVEŘEJNĚNÍ].**
+**Datum aktualizace návrhu: 11. 9. 2026.** Konečná účinnost není vyhlášena, dokud nebudou vyřešeny výslovně uvedené neověřené provozní údaje.
