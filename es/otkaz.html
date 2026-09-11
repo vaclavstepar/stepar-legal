@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,follow">
+<title>Información sobre el derecho de desistimiento</title>
+<style>body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;color:#222;margin:0;padding:20px}a{color:inherit}</style>
+</head>
+<body>
+<div id="app"><p>Cargando el documento…</p></div>
+<script>
+(async function(){
+  const url='otkaz-current.html?t='+Date.now();
+  try{
+    const r=await fetch(url,{cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const html=await r.text();
+    const doc=new DOMParser().parseFromString(html,'text/html');
+    const style=doc.querySelector('style');
+    if(style) document.head.appendChild(style.cloneNode(true));
+    if(doc.title) document.title=doc.title;
+    const app=document.getElementById('app');
+    const nodes=Array.from(doc.body.childNodes).map(function(n){return n.cloneNode(true);});
+    app.replaceWith(...nodes);
+  }catch(e){
+    document.getElementById('app').innerHTML='<p>No se ha podido cargar el documento. <a href="otkaz-current.html">Abrir la versión actual</a>.</p>';
+  }
+})();
+</script>
+</body>
+</html>
