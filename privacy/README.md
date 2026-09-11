@@ -63,3 +63,8 @@ Na pokyn uživatele je nadpis a titulek chorvatské verze „Zaštita osobnih po
 Vydána finální HU verze 1.0 pro www.stepar.hu pod názvem „Adatkezelési tájékoztató“: `hu/privacy.html`, `hu/privacy-current.html`, `privacy/hu-source.md`, archiv `archive/hu/privacy-2026-09-11-v1.0.html`, `privacy/iframe-hu.txt`.
 URL https://vaclavstepar.github.io/stepar-legal/hu/privacy.html
 Zahrnout HU do stávající půlroční revize spolu s CZ, BG, ES, FR a HR. Zachovat požadovaný maďarský název, kontakt info@stepar.hu a úřad NAIH, českou identitu správce a označení českých účetních povinností. Potvrzené služby a lhůty odpovídají české verzi. Technické meze prověření výše nadále platí; lokalizace není úplný audit cookies. OP ani odstoupení neměněny.
+
+## Polská verze — 11. 9. 2026
+Vydána finální PL verze 1.0 pro www.stepar.pl pod názvem „Polityka prywatności“: `pl/privacy.html`, `pl/privacy-current.html`, `privacy/pl-source.md`, archiv `archive/pl/privacy-2026-09-11-v1.0.html`, `privacy/iframe-pl.txt`.
+URL https://vaclavstepar.github.io/stepar-legal/pl/privacy.html
+Zahrnout PL do stávající půlroční revize spolu s ostatními vydanými jazyky. Zachovat název Polityka prywatności, kontakt info@stepar.pl, místní zveřejněný telefon +420 777 112 174 (anglická obsluha) a Prezes UODO. Ověřená adresa úřadu: ul. Stanisława Moniuszki 1A, 00-014 Warszawa; nepřebírat starou adresu Stawki. Česká identita správce a české účetní povinnosti zachovány. Potvrzené služby a lhůty odpovídají české verzi. Technické meze prověření výše nadále platí; lokalizace není úplný audit cookies. OP ani odstoupení neměněny.
