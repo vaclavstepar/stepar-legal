@@ -2,7 +2,7 @@
 
 **PRACOVNÍ NÁVRH — není určen k nahrazení platných zásad na e-shopu.**
 
-Česká verze 0.4 · 11. 9. 2026. Identifikační údaje a právní podklady jsou doplněny. Konečné vydání závisí na ověření skutečného ukládání dat a technického nastavení služeb popsaného níže.
+Česká verze 0.5 · 11. 9. 2026. Identifikační údaje a právní podklady jsou doplněny. Konečné vydání závisí na ověření skutečného ukládání dat a technického nastavení služeb popsaného níže.
 
 
 ### 1. Kdo vaše údaje zpracovává
@@ -50,8 +50,8 @@ U kontaktních osob právnických osob se komunikace a vyřízení obchodního v
 | **Outsourcing Solution CZ s.r.o., IČO 25514121**, Záhřebská 157/24, Vinohrady, 120 00 Praha 2; služba DragonCloud | Hosting účetního systému POHODA, ve kterém jsou zpracovávány objednávky, faktury, identifikační a kontaktní údaje zákazníků a údaje o úhradách |
 | Poskytovatel služby Smartsupp | Provoz zákaznického chatu a AI asistenta; zprávy, údaje, které do chatu zadáte, a související technické údaje |
 | Poskytovatelé služeb Google Analytics a Google Ads | Analytika a měření reklamy v rozsahu uděleného souhlasu |
-| Poskytovatelé IT správy, e-mailových služeb a případně externí účetní či právní poradci | Zajištění příslušné podpory a služeb v nezbytném rozsahu |
-| Seznam.cz, a.s., IČO 26168685 | Technické údaje o návštěvě pro reklamní nástroj nasazený na českém webu; personalizace reklamy podle souhlasu |
+| Weby24 — e-mailová služba Nardo | Provoz e-mailových schránek; obsah zpráv, přílohy a související údaje jsou uloženy na serverech Weby24 |
+| Poskytovatelé IT správy a případně externí účetní či právní poradci | Zajištění příslušné podpory a služeb v nezbytném rozsahu |
 | GitHub, Inc. — GitHub Pages | Technické doručení tohoto vloženého dokumentu: IP adresa, požadavek na stránku a související provozní údaje |
 | Orgány veřejné moci | Pokud zpřístupnění vyžaduje právní předpis nebo je nezbytné v příslušném řízení |
 
@@ -79,7 +79,6 @@ Nezbytné cookies umožňují fungování webu, například košíku, přihláš
 
 Své volby upravíte v cookie liště volbou **„Upravit nastavení“** a následně **„Uložit a zavřít“**. Pro odmítnutí slouží **„Odmítnout vše“**; k opětovnému otevření nastavení slouží odkaz **„Cookies“** v patičce e-shopu. Ovládání je součástí samotného e-shopu, nikoli tohoto vloženého dokumentu. Cookies lze také odstranit či blokovat v prohlížeči; blokování nezbytných cookies může omezit funkčnost webu.
 
-Na českém webu byl zjištěn retargetingový kód Seznam.cz. Provozovatel potvrdil, že remarketingové kampaně neprovozuje; přítomnost kódu je proto technický nesoulad k ověření a případnému odstranění. Samotná absence kampaní neprokazuje, že kód neodesílá údaje. Zpracování u poskytovatele popisují jeho [zásady ochrany údajů](https://o-seznam.cz/pravni-informace/ochrana-udaju/). Tato informace vychází z českého webu a nepředstavuje tvrzení o nasazení Seznamu na ostatních jazykových e-shopech.
 
 **Stav technického ověření:** skutečný soupis cookies, jejich životnost a chování všech značek při odmítnutí a odvolání souhlasu dosud nebyly ověřeny v prohlížeči. Tento návrh proto není potvrzením, že technické nastavení odpovídá popsaným pravidlům.
 
@@ -111,7 +110,8 @@ U Weby24 a DragonCloudu nebylo ze získaných podkladů ověřeno smluvní umís
 | Záznamy pro režim OSS, pokud se na dané plnění vztahuje | 10 let od konce kalendářního roku, ve kterém se transakce uskutečnila. |
 | Reklamace, odstoupení a právní nároky | Do vyřízení požadavku a vypořádání plnění; nezbytné důkazy následně do uplynutí promlčecí lhůty příslušného nároku. U probíhajícího sporu se zohledňuje jeho skončení, vypořádání a běh lhůt pro výkon rozhodnutí. Toto kritérium neopravňuje k uchovávání celé zákaznické databáze bez omezení. |
 | Zákaznický účet | Po dobu trvání účtu; po jeho zrušení se odděleně uchovají jen údaje s jiným trvajícím právním důvodem, zejména povinné doklady. Neaktivní účty pravidelně ani automaticky nemažeme. O zrušení účtu a výmaz údajů můžete požádat na info@stepar.cz; zákonné povinnosti uchovat některé doklady tím nejsou dotčeny. |
-| Běžné dotazy a chaty | Účelem je vyřízení dotazu; zprávy potřebné jako doklad objednávky nebo nároku spadají do odpovídajících řádků výše. Skutečná lhůta výmazu ostatních zpráv ve Smartsupp a e-mailu dosud není ověřena. |
+| E-mailová komunikace | E-maily uchováváme 3 roky a následně je mažeme. Jsou uloženy ve službě Nardo na serverech Weby24. Samostatné uchování povinných dokladů a nezbytných důkazů k právním nárokům se řídí příslušnými řádky této tabulky. |
+| Chatové konverzace | Účelem je vyřízení dotazu; zprávy potřebné jako doklad objednávky nebo nároku spadají do odpovídajících řádků výše. Skutečná lhůta výmazu ostatních zpráv ve Smartsupp dosud není ověřena. |
 | Google Analytics a cookies | Zpracování založené na souhlasu se ukončuje při jeho odvolání. Konkrétní nastavení uchování údajů a událostí v Analytics a životnost jednotlivých cookies dosud nejsou ověřeny; jde o odlišné lhůty. |
 | Bezpečnostní záznamy, evidence souhlasů a zálohy | Účelem je řešení bezpečnostních incidentů, prokázání souhlasu a obnova po poruše. Skutečné provozní lhůty a cyklus přepisu záloh u dodavatelů dosud nejsou ověřeny. |
 
