@@ -1,8 +1,7 @@
 # Zásady ochrany osobních údajů
 
-**PRACOVNÍ NÁVRH — není určen k nahrazení platných zásad na e-shopu.**
+**Verze 1.0 · Účinnost od 11. 9. 2026**
 
-Česká verze 0.5 · 11. 9. 2026. Identifikační údaje a právní podklady jsou doplněny. Konečné vydání závisí na ověření skutečného ukládání dat a technického nastavení služeb popsaného níže.
 
 
 ### 1. Kdo vaše údaje zpracovává
@@ -80,7 +79,6 @@ Nezbytné cookies umožňují fungování webu, například košíku, přihláš
 Své volby upravíte v cookie liště volbou **„Upravit nastavení“** a následně **„Uložit a zavřít“**. Pro odmítnutí slouží **„Odmítnout vše“**; k opětovnému otevření nastavení slouží odkaz **„Cookies“** v patičce e-shopu. Ovládání je součástí samotného e-shopu, nikoli tohoto vloženého dokumentu. Cookies lze také odstranit či blokovat v prohlížeči; blokování nezbytných cookies může omezit funkčnost webu.
 
 
-**Stav technického ověření:** skutečný soupis cookies, jejich životnost a chování všech značek při odmítnutí a odvolání souhlasu dosud nebyly ověřeny v prohlížeči. Tento návrh proto není potvrzením, že technické nastavení odpovídá popsaným pravidlům.
 
 Více o zpracování údajů společností Google: [Jak Google používá údaje z partnerských webů](https://policies.google.com/technologies/partner-sites?hl=cs).
 
@@ -92,11 +90,11 @@ U služeb Google může docházet ke zpracování na globální infrastruktuře 
 
 Evropským poskytovatelem PayPalu je **PayPal (Europe) S.à r.l. et Cie, S.C.A.**, 22–24 Boulevard Royal, L-2449 Lucemburk. Pro vnitroskupinová předání používá schválená závazná podniková pravidla; pro další předání podle okolností rozhodnutí o odpovídající ochraně či standardní smluvní doložky. Podrobnosti a přístup k těmto pravidlům obsahují [zásady PayPal](https://www.paypal.com/cz/legalhub/paypal/privacy-full).
 
-Smartsupp používá další dodavatele infrastruktury a AI. Evropské sídlo dodavatele samo o sobě nezaručuje, že veškeré zpracování a přístup k údajům probíhají pouze v EHP. Seznam dodavatelů a odkazy na jejich podmínky jsou v [seznamu dalších zpracovatelů Smartsupp](https://help.smartsupp.com/en/articles/12647685-list-of-sub-processors); povinnosti Smartsupp upravují [podmínky zpracování](https://help.smartsupp.com/en/articles/12647343-dpa-data-processing-terms). Konkrétní přenosy pro aktivní funkce našeho účtu a jejich smluvní záruky jsou dosud předmětem ověření.
+Smartsupp používá další dodavatele infrastruktury a AI. Evropské sídlo dodavatele samo o sobě nezaručuje, že veškeré zpracování a přístup k údajům probíhají pouze v EHP. Seznam dodavatelů a odkazy na jejich podmínky jsou v [seznamu dalších zpracovatelů Smartsupp](https://help.smartsupp.com/en/articles/12647685-list-of-sub-processors); povinnosti Smartsupp upravují [podmínky zpracování](https://help.smartsupp.com/en/articles/12647343-dpa-data-processing-terms). Při zapojení dodavatelů mimo EHP se uplatní záruky podle kapitoly V GDPR, zejména rozhodnutí o odpovídající ochraně pro příslušného příjemce nebo standardní smluvní doložky. Evropské sídlo smluvního dodavatele nevylučuje zpracování u jeho dalších dodavatelů mimo EHP.
 
 Tento dokument se načítá ze služby GitHub Pages. GitHub zpracovává provozní údaje také v USA a dalších zemích a zveřejňuje použití standardních smluvních doložek a EU–US Data Privacy Framework; podrobnosti uvádí v [zásadách ochrany osobních údajů](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-U Weby24 a DragonCloudu nebylo ze získaných podkladů ověřeno smluvní umístění všech dat ani případný přístup podpory ze třetích zemí. Netvrdíme proto, že všechny využívané služby zpracovávají údaje výhradně v EU. Informace o konkrétních zárukách a možnost získat jejich kopii poskytujeme na info@stepar.cz.
+Weby24/Nardo a DragonCloud zajišťují technické zpracování popsané v oddílu 4. Informace o předávání a použitých zárukách, včetně možnosti získat jejich kopii, si můžete vyžádat na info@stepar.cz. Český poskytovatel nebo evropské sídlo společnosti samo o sobě neznamenají, že veškeré služby a související přístupy probíhají výhradně v EHP.
 
 ### 8. Jak dlouho údaje uchováváme
 
@@ -111,9 +109,12 @@ U Weby24 a DragonCloudu nebylo ze získaných podkladů ověřeno smluvní umís
 | Reklamace, odstoupení a právní nároky | Do vyřízení požadavku a vypořádání plnění; nezbytné důkazy následně do uplynutí promlčecí lhůty příslušného nároku. U probíhajícího sporu se zohledňuje jeho skončení, vypořádání a běh lhůt pro výkon rozhodnutí. Toto kritérium neopravňuje k uchovávání celé zákaznické databáze bez omezení. |
 | Zákaznický účet | Po dobu trvání účtu; po jeho zrušení se odděleně uchovají jen údaje s jiným trvajícím právním důvodem, zejména povinné doklady. Neaktivní účty pravidelně ani automaticky nemažeme. O zrušení účtu a výmaz údajů můžete požádat na info@stepar.cz; zákonné povinnosti uchovat některé doklady tím nejsou dotčeny. |
 | E-mailová komunikace | E-maily uchováváme 3 roky a následně je mažeme. Jsou uloženy ve službě Nardo na serverech Weby24. Samostatné uchování povinných dokladů a nezbytných důkazů k právním nárokům se řídí příslušnými řádky této tabulky. |
-| Chatové konverzace | Účelem je vyřízení dotazu; zprávy potřebné jako doklad objednávky nebo nároku spadají do odpovídajících řádků výše. Skutečná lhůta výmazu ostatních zpráv ve Smartsupp dosud není ověřena. |
-| Google Analytics a cookies | Zpracování založené na souhlasu se ukončuje při jeho odvolání. Konkrétní nastavení uchování údajů a událostí v Analytics a životnost jednotlivých cookies dosud nejsou ověřeny; jde o odlišné lhůty. |
-| Bezpečnostní záznamy, evidence souhlasů a zálohy | Účelem je řešení bezpečnostních incidentů, prokázání souhlasu a obnova po poruše. Skutečné provozní lhůty a cyklus přepisu záloh u dodavatelů dosud nejsou ověřeny. |
+| Chatové konverzace | Konverzace ve Smartsupp se mažou po označení ke smazání; jinak se automaticky mažou po jednom roce. Nezbytná komunikace samostatně uchovaná jako doklad objednávky nebo právního nároku se řídí pravidly pro příslušný účel uvedenými výše. |
+| Google Analytics | Údaje o událostech a uživatelích uchováváme 14 měsíců. U uživatelských údajů se lhůta obnovuje při další aktivitě uživatele. Toto nastavení se nevztahuje na většinu standardních souhrnných přehledů. |
+| Cookies a obdobné identifikátory | Relační cookies trvají po dobu relace; trvalé cookies do nastavené expirace nebo jejich dřívějšího odstranění v prohlížeči. Odvoláním souhlasu se ukončuje další zpracování pro účel založený na tomto souhlasu. Doba platnosti cookie v zařízení se liší od doby uchování údajů v Analytics. |
+| Bezpečnostní záznamy | Kritériem uchování je doba potřebná k odhalení a prošetření bezpečnostní události. Záznamy vztahující se ke konkrétnímu incidentu mohou být uchovány do jeho vyřešení a vypořádání souvisejících právních nároků. |
+| Evidence souhlasů | Po dobu využívání souhlasu a následně v nezbytném rozsahu pro doložení jeho udělení, změny či odvolání a pro obhajobu souvisejících právních nároků. |
+| Provozní zálohy | Záložní kopie slouží k obnově při poruše a průběžně se nahrazují novějšími. Výmaz z běžného systému nemusí znamenat okamžitý výmaz ze záložní kopie; ta zaniká v rámci přepisu záloh. Záloha není důvodem k novému marketingovému ani jinému běžnému využívání již vymazaných údajů. |
 
 Zákonné uchování může být prodlouženo, pokud to vyžaduje konkrétní probíhající řízení nebo jiná zákonná povinnost. Uvedené lhůty pro doklady nejsou automatickou lhůtou pro všechny údaje o zákazníkovi. Zákonné podklady: [zákon o DPH](https://www.zakonyprolidi.cz/cs/2004-235), [zákon o účetnictví](https://www.zakonyprolidi.cz/cs/1991-563), [Evropská komise — uchovávání záznamů OSS](https://vat-one-stop-shop.ec.europa.eu/one-stop-shop/record-keeping-and-audits-oss_en).
 
@@ -133,4 +134,4 @@ Stížnost můžete podat u **Úřadu pro ochranu osobních údajů**, Pplk. Soc
 
 Zásady aktualizujeme při změně zpracování nebo příslušných požadavků. Aktuální verzi a datum její účinnosti zveřejňujeme na této stránce. Pokud změna vyžaduje nový souhlas, vyžádáme si jej samostatně; samotné zveřejnění nového textu jej nenahrazuje.
 
-**Datum aktualizace návrhu: 11. 9. 2026.** Konečná účinnost není vyhlášena, dokud nebudou vyřešeny výslovně uvedené neověřené provozní údaje.
+**Datum účinnosti této verze: 11. 9. 2026.**

@@ -1,4 +1,3 @@
-<!-- ZATÍM POUZE NÁHLED: obsah je pracovní návrh. Po dokončení se URL nemění. -->
 <iframe
  src="https://vaclavstepar.github.io/stepar-legal/cz/privacy.html"
  title="Zásady ochrany osobních údajů"

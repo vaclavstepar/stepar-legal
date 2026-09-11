@@ -1,43 +1,37 @@
 # Zásady ochrany osobních údajů ŠTĚPAŘ
 
-Stav: český pracovní návrh v0.5, 11. 9. 2026. Nejde o konečnou publikovanou právní verzi pro zákazníky. Veřejně ověřitelné údaje byly doplněny; neověřené konfigurace jsou výslovně popsány v textu, bez formulářových zástupných polí. Ostatní jazykové verze zásad zatím neexistují.
+Aktuální vydání: **česká verze 1.0, účinnost 11. 9. 2026**, vydaná na výslovný pokyn uživatele. Bez označení pracovního návrhu. Platí pro www.stepar.cz; ostatní jazykové verze nejsou tímto vydáním vytvořeny.
 
-## Soubory
+## Publikace
+- `cz/privacy.html`: stabilní iframe loader; zachovat adresu.
+- `cz/privacy-current.html`: aktuální znění.
+- `privacy/cz-source.md`: obsahový zdroj; měnit současně s HTML.
+- `privacy/iframe-cz.txt`: kód vložení.
+- `archive/cz/privacy-2026-09-11-v1.0.html`: neměnný snímek vydání.
+- Historické drafty ponechat v archivu; jejich neaktuální tvrzení nejsou podkladem pro nová vydání.
 
-- `cz/privacy.html`: stabilní adresa iframe, načítá aktuální obsah s parametrem času a `cache: no-store`.
-- `cz/privacy-current.html`: aktuální HTML, zatím označené jako pracovní návrh.
-- `privacy/cz-source.md`: obsahový zdroj; udržovat současně s HTML.
-- `archive/cz/privacy-2026-09-11-draft-v02.html`: první archivovaný návrh.
-- `privacy/iframe-cz.txt`: iframe pro náhled, pevná výška 900 px se standardním posouváním; bez závislosti na skriptech Weby24.
+URL: https://vaclavstepar.github.io/stepar-legal/cz/privacy.html
 
-Adresa: https://vaclavstepar.github.io/stepar-legal/cz/privacy.html
+## Rozhodující potvrzené provozní údaje
+GLS a Packeta; GoPay a PayPal. Starého odstraněného poskytovatele plateb nepřidávat.
+Google Analytics: uživatelé i události 14 měsíců, reset uživatelských údajů při nové aktivitě zapnutý; snímek stepar.ro a následné potvrzení stejného nastavení všude.
+Google Ads a Merchant Center ano, rozšířené konverze ne, remarketingové kampaně ne. Seznam kód uživatel odstranil; při nové statické kontrole homepage nenalezeno retargetingHit.
+Smartsupp všude: AI pouze odpovídá, nemění objednávky a nerozhoduje o nárocích. Nahrávání návštěv vypnuto. Konverzace se mažou po označení ke smazání, jinak po roce, dle potvrzení uživatele.
+Newslettery ne. E-maily Nardo na serverech Weby24, mazání po třech letech.
+Zákaznické účty se automaticky ani pravidelně nemažou; neslibovat opak.
+POHODA na DragonCloudu přijímá přes API objednávky a faktury. Výrobce softwaru sám o sobě není příjemcem.
+BaseLinker pouze produktový feed bez osobních údajů.
+Weby24/MOVIS česká platforma; Shopify řecké domény vyžaduje vlastní znění příjemců při lokalizaci.
 
-## Aktualizace
+## Právní a technické meze revize
+Finální znění představuje dokončený informační dokument podle potvrzených údajů, nikoli certifikaci souladu technického provozu.
+Ověřeny veřejné stránky Weby24/Nardo a DragonCloud; veřejná informace Weby24 o vlastních klientech není důkazem konkrétního DPA pro data návštěvníků e-shopu. Nepřebírat patnáctiletou lhůtu dodavatele pro jeho vlastní klienty.
+Nevymýšlet země, přístup podpory ani smluvní mechanismy konkrétního účtu. Veřejná pravidla globálních poskytovatelů jsou odkázána v textu; podrobné smlouvy a skutečné přenosy neprošly auditem.
+Pro zálohy a bezpečnostní evidenci jsou použita účelová kritéria, ne neověřené číselné lhůty. Neaktivní účty nadále vyžadují provozní posuzování potřebnosti údajů.
+Kontrola cookies zatím jen statická: nenahrazuje síťový test před/po souhlasu a po odvolání. Dříve získaný Weby24 skript požadoval u preference gdpr 10000 dnů; skutečnou expiraci omezuje prohlížeč a nejde o důkaz platnosti souhlasu po tuto dobu. Provozní nastavení nebylo měněno.
+Tyto provozní otázky neměnit v zákaznické formulářové výzvy a nevracet dokument automaticky do draftu; případné skutečné rozpory oznámit konkrétně.
 
-Při každé obsahové změně archivovat dosavadní current pod jednoznačným názvem s datem a verzí, upravit zdroj a current ve stejném commitu. Zachovat loader a jeho URL. Uvést změnu a zdroje v záznamu `privacy/reviews/YYYY-MM-DD.md`. Po commitu do main vyčkat na úspěšný existující workflow Deploy GitHub Pages a ověřit načtení veřejné adresy. Již otevřený iframe se sám periodicky neobnovuje; změna se projeví při dalším načtení po dokončení nasazení, s možným krátkým zpožděním CDN.
-
-Před vydáním finální verze doplnit otevřené údaje, technicky zkontrolovat souhlasy a teprve potom odstranit označení pracovního návrhu. Publikování HTML nemění nastavení e-shopu. Hosting GitHub Pages a související technické požadavky návštěvníka jsou zohledněny. Nepřidávat neověřené doby uchování nebo domnělé mezinárodní záruky.
-
-## Legislativní revize
-
-Uživatel požaduje kontrolu jednou za šest měsíců a zapracování potvrzených relevantních změn. Kontrolovat platné i schválené budoucí předpisy, jejich účinnost, rozhodnutí a pokyny dozorových úřadů. Odlišit závazné právo, pokyny a návrhy. Změny provozu a konfigurace nelze zjistit jen právní rešerší a nesmějí se domýšlet.
-
-Rozsah: společný základ GDPR/EU a země skutečně provozovaných e-shopů; výchozí CZ, SK, BG, ES, FR, HR, HU, PL, RO, SI a GR. Nejprve načíst aktuální soubory a kontext případných dalších domén. Aktualizovat jen skutečně existující jazykové verze privacy, nedotýkat se obchodních podmínek ani jejich samostatných automatizací.
-
-Automatická úprava je autorizovaná pro potvrzené změny odpovídající známému provozu. Při nejasném právním dopadu, chybějícím provozním faktu nebo blokujících oprávněních připravit konkrétní návrh a oznámit, co brání dokončení; nevymýšlet fakta. Dokud je výchozí dokument draft, i legislativní aktualizace zachovávají draft. Výsledek revize zaznamenat včetně zdrojů, účinnosti, data a výsledku nasazení. Pokud se nic relevantního nezměnilo, lze zapsat výsledek bez úprav HTML a bez upozornění.
-
-Plánovaná první kontrola: 11. 3. 2027, následně každých šest měsíců, Europe/Prague. Skutečné vytvoření automatizace potvrzuje až výsledek nástroje automatizací; samotný tento soubor žádnou úlohu nespouští. Půlroční interval není průběžný dohled mezi kontrolami.
-
-## Otevřené technické podklady po revizi v0.5
-
-Vyžádat export/snímky nastavení GA (uchování událostí a reset při aktivitě), Smartsupp (mazání konverzací). Dále potvrzení Weby24/DragonCloud o logování, zálohách, umístění dat, přístupu podpory a přenosových zárukách. Ověřit cookie inventář a souhlasy v prohlížeči. Bez podkladů neoznačovat jako finální.
-
-Na české doméně zjištěn konkrétní Seznam retargetingový kód s rtgId a voláním retargetingHit. Nezobecňovat na ostatní domény. Obecný wrapper Meta s lazy endpointem sám neprokazuje aktivní pixel. Uživatelské potvrzení o odstranění starého poskytovatele plateb platí.
-
-## Aktuální provozní potvrzení uživatele — v0.5
-
-Nejnovější výslovné potvrzení má přednost před staršími podklady i starým zadáním automatizace: remarketingové kampaně vůbec neprovozuje; zákaznické účty pravidelně nemaže; AI pouze odpovídá. Nevyžadovat nastavení členství v remarketingových publikách ani opětovné potvrzení pravomocí AI. Nalezený retargetingový kód není důkazem běžících kampaní; ověřit jeho datové přenosy a případně odstranit v administraci e-shopu. Pravidelnou revizi potřebnosti neaktivních účtů je třeba řešit jako provozní opatření; v textu neslibovat automatické mazání, které neprobíhá.
-
-## Potvrzení uživatele v0.5 — rozhodující aktuální stav
-
-E-maily maže po 3 letech; všechny uloženy v Nardo na serverech Weby24. Seznam remarketing nepoužívá a starý kód již z e-shopu odstranil. Starší zmínky o zjištěném kódu jsou historické a nejsou aktuální příjemce ani otevřený dotaz. Odstranění potvrzeno uživatelem, nikoli novým technickým auditem. Nevyžadovat znovu dobu mazání e-mailů. Zbývá uchování GA a Smartsupp, podklady hostingu a cookie audit.
+## Aktualizace a monitoring
+Před obsahovou změnou ověřit aktuální main, archivovat předchozí verzi pod jednoznačným názvem a měnit zdroj i HTML atomicky. Zachovat stabilní URL, nezasahovat do OP ani odstoupení. Po commitu ověřit Pages workflow a veřejný obsah. Otevřený iframe se obnoví při novém načtení stránky.
+Půlroční automatizace ID 6aa3b750f4348191858d748fe7c3b8cf: první kontrola 11. 3. 2027, poté každých šest měsíců. Při rozporu se starším promptem automatizace platí aktuální potvrzení výše a finální stav verze 1.0.
+Kontrolovat oficiální zdroje EU a zemí provozovaných e-shopů; změny promítnout jen do existujících relevantních jazykových verzí. Rozlišovat platné právo, schválené budoucí změny a návrhy. Udržovat záznamy revizí a zdroje. Při nejasném právním dopadu nebo neznámém provozním faktu neodhadovat; oznámit konkrétní omezení.
