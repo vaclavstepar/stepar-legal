@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,follow">
+<title>Regulamin sklepu internetowego | ŠTĚPAŘ s.r.o.</title>
+<style>html,body{margin:0;padding:0;background:transparent}body{font-family:Arial,Helvetica,sans-serif;color:#222}.loading{max-width:1040px;margin:0 auto;padding:24px 18px;box-sizing:border-box}</style>
+</head>
+<body>
+<div id="legal-content" class="loading">Ładowanie aktualnego regulaminu…</div>
+<script>
+(async function(){
+  const target=document.getElementById('legal-content');
+  try{
+    const url='op-current.html?t='+Date.now();
+    const response=await fetch(url,{cache:'no-store'});
+    if(!response.ok) throw new Error('HTTP '+response.status);
+    const html=await response.text();
+    const doc=new DOMParser().parseFromString(html,'text/html');
+    document.title=doc.title||document.title;
+    const style=doc.querySelector('style');
+    if(style){document.head.appendChild(style.cloneNode(true));}
+    target.className='';
+    target.innerHTML=doc.body.innerHTML;
+  }catch(e){
+    target.innerHTML='<h1>Regulamin sklepu internetowego</h1><p>Nie udało się załadować aktualnej treści. <a href="op-current.html?reload='+Date.now()+'">Otwórz regulamin bezpośrednio</a>.</p>';
+  }
+})();
+</script>
+<noscript><div class="loading"><p><a href="op-current.html">Otwórz aktualny regulamin</a></p></div></noscript>
+</body>
+</html>
