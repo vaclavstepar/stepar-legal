@@ -20,11 +20,16 @@ jobs:
         shell: bash
         run: |
           cat .build/sk-reklamacny-formular/part01 \
-              .build/sk-reklamacny-formular/part02 \
+              .build/sk-reklamacny-formular/part02a \
+              .build/sk-reklamacny-formular/part02b \
               .build/sk-reklamacny-formular/part03 \
-              .build/sk-reklamacny-formular/part04 \
+              .build/sk-reklamacny-formular/part04a \
+              .build/sk-reklamacny-formular/part04b \
               .build/sk-reklamacny-formular/part05 > /tmp/reklamacny-formular.b64
+          test "$(wc -c < /tmp/reklamacny-formular.b64)" -eq 53492
           base64 --decode /tmp/reklamacny-formular.b64 > sk/reklamacny-formular.docx
+          test "$(wc -c < sk/reklamacny-formular.docx)" -eq 40117
+          echo "b42224a2b5dc82defe88f61f0340578dd0fe85a5f964992050d07bd8a92c8089  sk/reklamacny-formular.docx" | sha256sum -c -
           unzip -t sk/reklamacny-formular.docx
 
       - name: Commit generated Word form
