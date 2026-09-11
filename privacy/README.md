@@ -58,3 +58,8 @@ Zahrnout HR do stávající půlroční revize spolu s CZ, BG, ES a FR. Zachovat
 
 ## Chorvatský název — v1.1
 Na pokyn uživatele je nadpis a titulek chorvatské verze „Zaštita osobnih podataka“. Zachovat tento název při revizích. Změna pouze názvu, obsah zásad a stabilní URL beze změny. Archiv archive/hr/privacy-2026-09-11-v1.1.html.
+
+## Maďarská verze — 11. 9. 2026
+Vydána finální HU verze 1.0 pro www.stepar.hu pod názvem „Adatkezelési tájékoztató“: `hu/privacy.html`, `hu/privacy-current.html`, `privacy/hu-source.md`, archiv `archive/hu/privacy-2026-09-11-v1.0.html`, `privacy/iframe-hu.txt`.
+URL https://vaclavstepar.github.io/stepar-legal/hu/privacy.html
+Zahrnout HU do stávající půlroční revize spolu s CZ, BG, ES, FR a HR. Zachovat požadovaný maďarský název, kontakt info@stepar.hu a úřad NAIH, českou identitu správce a označení českých účetních povinností. Potvrzené služby a lhůty odpovídají české verzi. Technické meze prověření výše nadále platí; lokalizace není úplný audit cookies. OP ani odstoupení neměněny.
