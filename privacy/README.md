@@ -1,6 +1,6 @@
 # Zásady ochrany osobních údajů ŠTĚPAŘ
 
-Stav: český pracovní návrh v0.3, 11. 9. 2026. Nejde o konečnou publikovanou právní verzi pro zákazníky. Veřejně ověřitelné údaje byly doplněny; neověřené konfigurace jsou výslovně popsány v textu, bez formulářových zástupných polí. Ostatní jazykové verze zásad zatím neexistují.
+Stav: český pracovní návrh v0.4, 11. 9. 2026. Nejde o konečnou publikovanou právní verzi pro zákazníky. Veřejně ověřitelné údaje byly doplněny; neověřené konfigurace jsou výslovně popsány v textu, bez formulářových zástupných polí. Ostatní jazykové verze zásad zatím neexistují.
 
 ## Soubory
 
@@ -28,8 +28,12 @@ Automatická úprava je autorizovaná pro potvrzené změny odpovídající zná
 
 Plánovaná první kontrola: 11. 3. 2027, následně každých šest měsíců, Europe/Prague. Skutečné vytvoření automatizace potvrzuje až výsledek nástroje automatizací; samotný tento soubor žádnou úlohu nespouští. Půlroční interval není průběžný dohled mezi kontrolami.
 
-## Otevřené technické podklady po revizi v0.3
+## Otevřené technické podklady po revizi v0.4
 
-Vyžádat export/snímky nastavení GA (uchování událostí a reset při aktivitě), reklamních publik (doby členství), Smartsupp (mazání konverzací a oprávnění AI). Dále skartační režim e-mailu/účtů a potvrzení Weby24/DragonCloud o logování, zálohách, umístění dat, přístupu podpory a přenosových zárukách. Ověřit cookie inventář a souhlasy v prohlížeči. Bez podkladů neoznačovat jako finální.
+Vyžádat export/snímky nastavení GA (uchování událostí a reset při aktivitě), Smartsupp (mazání konverzací). Dále skartační režim e-mailu a potvrzení Weby24/DragonCloud o logování, zálohách, umístění dat, přístupu podpory a přenosových zárukách. Ověřit cookie inventář a souhlasy v prohlížeči. Bez podkladů neoznačovat jako finální.
 
 Na české doméně zjištěn konkrétní Seznam retargetingový kód s rtgId a voláním retargetingHit. Nezobecňovat na ostatní domény. Obecný wrapper Meta s lazy endpointem sám neprokazuje aktivní pixel. Uživatelské potvrzení o odstranění starého poskytovatele plateb platí.
+
+## Aktuální provozní potvrzení uživatele — v0.4
+
+Nejnovější výslovné potvrzení má přednost před staršími podklady i starým zadáním automatizace: remarketingové kampaně vůbec neprovozuje; zákaznické účty pravidelně nemaže; AI pouze odpovídá. Nevyžadovat nastavení členství v remarketingových publikách ani opětovné potvrzení pravomocí AI. Nalezený retargetingový kód není důkazem běžících kampaní; ověřit jeho datové přenosy a případně odstranit v administraci e-shopu. Pravidelnou revizi potřebnosti neaktivních účtů je třeba řešit jako provozní opatření; v textu neslibovat automatické mazání, které neprobíhá.

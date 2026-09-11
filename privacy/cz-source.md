@@ -2,7 +2,7 @@
 
 **PRACOVNÍ NÁVRH — není určen k nahrazení platných zásad na e-shopu.**
 
-Česká verze 0.3 · 11. 9. 2026. Identifikační údaje a právní podklady jsou doplněny. Konečné vydání závisí na ověření skutečného ukládání dat a technického nastavení služeb popsaného níže.
+Česká verze 0.4 · 11. 9. 2026. Identifikační údaje a právní podklady jsou doplněny. Konečné vydání závisí na ověření skutečného ukládání dat a technického nastavení služeb popsaného níže.
 
 
 ### 1. Kdo vaše údaje zpracovává
@@ -34,7 +34,7 @@ Při používání webu mohou být zpracovávány technické údaje, například
 | Odpovědi na dotazy | E-mail, telefon a chat, včetně AI asistenta | U dotazů k zamýšlenému nebo existujícímu nákupu písm. b); u ostatních dotazů oprávněný zájem na poskytování zákaznické podpory podle písm. f) |
 | Ochrana práv a bezpečnost | Nezbytné důkazy o transakcích, řešení sporů, bezpečnostní záznamy a prevence zneužití | Oprávněný zájem na ochraně práv, majetku a bezpečného provozu podle písm. f) |
 | Analytika návštěvnosti | Statistické vyhodnocení používání webu pomocí Google Analytics | Souhlas, čl. 6 odst. 1 písm. a) |
-| Reklama a remarketing | Měření účinnosti reklamy a vytváření publik pro opětovné oslovení návštěvníků | Souhlas, čl. 6 odst. 1 písm. a) |
+| Měření reklamy | Vyhodnocování účinnosti reklamních kampaní | Souhlas, čl. 6 odst. 1 písm. a) |
 
 U kontaktních osob právnických osob se komunikace a vyřízení obchodního vztahu opírají o náš oprávněný zájem na spolupráci s daným zákazníkem, pokud nejde o plnění právní povinnosti. Newslettery neposíláme. E-maily týkající se objednávky, platby, dopravy či reklamace slouží k vyřízení vašeho nákupu.
 
@@ -49,7 +49,7 @@ U kontaktních osob právnických osob se komunikace a vyřízení obchodního v
 | Poskytovatelé plateb GoPay a PayPal | Údaje nutné k provedení, identifikaci a ověření zvolené platby nebo vrácení peněz |
 | **Outsourcing Solution CZ s.r.o., IČO 25514121**, Záhřebská 157/24, Vinohrady, 120 00 Praha 2; služba DragonCloud | Hosting účetního systému POHODA, ve kterém jsou zpracovávány objednávky, faktury, identifikační a kontaktní údaje zákazníků a údaje o úhradách |
 | Poskytovatel služby Smartsupp | Provoz zákaznického chatu a AI asistenta; zprávy, údaje, které do chatu zadáte, a související technické údaje |
-| Poskytovatelé služeb Google Analytics a Google Ads | Analytika, měření reklamy a remarketing v rozsahu uděleného souhlasu |
+| Poskytovatelé služeb Google Analytics a Google Ads | Analytika a měření reklamy v rozsahu uděleného souhlasu |
 | Poskytovatelé IT správy, e-mailových služeb a případně externí účetní či právní poradci | Zajištění příslušné podpory a služeb v nezbytném rozsahu |
 | Seznam.cz, a.s., IČO 26168685 | Technické údaje o návštěvě pro reklamní nástroj nasazený na českém webu; personalizace reklamy podle souhlasu |
 | GitHub, Inc. — GitHub Pages | Technické doručení tohoto vloženého dokumentu: IP adresa, požadavek na stránku a související provozní údaje |
@@ -67,11 +67,11 @@ Do chatu prosím neposílejte hesla, úplné údaje platební karty, lékařské
 
 Funkci nahrávání návštěv, tedy záznamů průchodu návštěvníka webem, nepoužíváme. To nevylučuje uchovávání samotné chatové konverzace a technických údajů potřebných pro chat. AI může vytvořit nepřesnou odpověď; při nejasnostech se obraťte na naši obsluhu.
 
-Role asistenta popsaná v těchto zásadách je poskytování zákaznické podpory. Závazné vyřízení objednávky, reklamace nebo odstoupení řešte prostřednictvím našich uvedených kontaktů. Rozsah automatických akcí asistenta musí být před konečným vydáním tohoto dokumentu porovnán s jeho skutečným nastavením.
+AI asistent pouze odpovídá na dotazy. Nemění ani neruší objednávky a nerozhoduje o reklamacích či jiných nárocích zákazníků. Nepřijímá rozhodnutí s právními nebo obdobně významnými účinky. Závazné vyřízení objednávky, reklamace nebo odstoupení řešte prostřednictvím našich uvedených kontaktů.
 
 ### 6. Google Analytics, reklama a cookies
 
-Google Analytics používáme k vyhodnocování návštěvnosti a používání e-shopu. Google Ads používáme k propagaci nabídky a remarketingu, tedy k opětovnému zobrazování reklamy lidem, kteří navštívili náš web. Reklamní systém může na základě návštěv a událostí zařadit návštěvníka do určitého publika a přizpůsobit mu reklamu. Jde o profilování pro reklamní účely.
+Google Analytics používáme k vyhodnocování návštěvnosti a používání e-shopu. Google Ads používáme k propagaci nabídky a měření účinnosti reklamy. Remarketingové kampaně, tedy opětovné cílené oslovení návštěvníků na základě jejich předchozí návštěvy, neprovozujeme.
 
 Rozšířené konverze Google Ads nepoužíváme. Google Merchant Center slouží k poskytování produktových informací pro prezentaci nabídky; případné sledování návštěvníků souvisí s použitými reklamními a měřicími nástroji, nikoliv automaticky s existencí produktového feedu.
 
@@ -79,7 +79,7 @@ Nezbytné cookies umožňují fungování webu, například košíku, přihláš
 
 Své volby upravíte v cookie liště volbou **„Upravit nastavení“** a následně **„Uložit a zavřít“**. Pro odmítnutí slouží **„Odmítnout vše“**; k opětovnému otevření nastavení slouží odkaz **„Cookies“** v patičce e-shopu. Ovládání je součástí samotného e-shopu, nikoli tohoto vloženého dokumentu. Cookies lze také odstranit či blokovat v prohlížeči; blokování nezbytných cookies může omezit funkčnost webu.
 
-Na českém webu je rovněž nasazen retargetingový kód Seznam.cz. Zpracování u poskytovatele popisují jeho [zásady ochrany údajů](https://o-seznam.cz/pravni-informace/ochrana-udaju/). Tato informace vychází z českého webu a nepředstavuje tvrzení o nasazení Seznamu na ostatních jazykových e-shopech.
+Na českém webu byl zjištěn retargetingový kód Seznam.cz. Provozovatel potvrdil, že remarketingové kampaně neprovozuje; přítomnost kódu je proto technický nesoulad k ověření a případnému odstranění. Samotná absence kampaní neprokazuje, že kód neodesílá údaje. Zpracování u poskytovatele popisují jeho [zásady ochrany údajů](https://o-seznam.cz/pravni-informace/ochrana-udaju/). Tato informace vychází z českého webu a nepředstavuje tvrzení o nasazení Seznamu na ostatních jazykových e-shopech.
 
 **Stav technického ověření:** skutečný soupis cookies, jejich životnost a chování všech značek při odmítnutí a odvolání souhlasu dosud nebyly ověřeny v prohlížeči. Tento návrh proto není potvrzením, že technické nastavení odpovídá popsaným pravidlům.
 
@@ -110,9 +110,9 @@ U Weby24 a DragonCloudu nebylo ze získaných podkladů ověřeno smluvní umís
 | Účetní doklady, které nepodléhají delší povinnosti | 5 let od konce účetního období, kterého se týkají, podle § 31 zákona č. 563/1991 Sb. Je-li doklad zároveň daňovým dokladem k DPH, platí delší desetiletá lhůta. |
 | Záznamy pro režim OSS, pokud se na dané plnění vztahuje | 10 let od konce kalendářního roku, ve kterém se transakce uskutečnila. |
 | Reklamace, odstoupení a právní nároky | Do vyřízení požadavku a vypořádání plnění; nezbytné důkazy následně do uplynutí promlčecí lhůty příslušného nároku. U probíhajícího sporu se zohledňuje jeho skončení, vypořádání a běh lhůt pro výkon rozhodnutí. Toto kritérium neopravňuje k uchovávání celé zákaznické databáze bez omezení. |
-| Zákaznický účet | Po dobu trvání účtu; po jeho zrušení se odděleně uchovají jen údaje s jiným trvajícím právním důvodem, zejména povinné doklady. Automatický výmaz neaktivních účtů nebyl ověřen. |
+| Zákaznický účet | Po dobu trvání účtu; po jeho zrušení se odděleně uchovají jen údaje s jiným trvajícím právním důvodem, zejména povinné doklady. Neaktivní účty pravidelně ani automaticky nemažeme. O zrušení účtu a výmaz údajů můžete požádat na info@stepar.cz; zákonné povinnosti uchovat některé doklady tím nejsou dotčeny. |
 | Běžné dotazy a chaty | Účelem je vyřízení dotazu; zprávy potřebné jako doklad objednávky nebo nároku spadají do odpovídajících řádků výše. Skutečná lhůta výmazu ostatních zpráv ve Smartsupp a e-mailu dosud není ověřena. |
-| Google Analytics, reklamní publika a cookies | Zpracování založené na souhlasu se ukončuje při jeho odvolání. Konkrétní nastavení uchování údajů a událostí v Analytics, členství v reklamních publikách a životnost jednotlivých cookies dosud nejsou ověřeny; jde o odlišné lhůty. |
+| Google Analytics a cookies | Zpracování založené na souhlasu se ukončuje při jeho odvolání. Konkrétní nastavení uchování údajů a událostí v Analytics a životnost jednotlivých cookies dosud nejsou ověřeny; jde o odlišné lhůty. |
 | Bezpečnostní záznamy, evidence souhlasů a zálohy | Účelem je řešení bezpečnostních incidentů, prokázání souhlasu a obnova po poruše. Skutečné provozní lhůty a cyklus přepisu záloh u dodavatelů dosud nejsou ověřeny. |
 
 Zákonné uchování může být prodlouženo, pokud to vyžaduje konkrétní probíhající řízení nebo jiná zákonná povinnost. Uvedené lhůty pro doklady nejsou automatickou lhůtou pro všechny údaje o zákazníkovi. Zákonné podklady: [zákon o DPH](https://www.zakonyprolidi.cz/cs/2004-235), [zákon o účetnictví](https://www.zakonyprolidi.cz/cs/1991-563), [Evropská komise — uchovávání záznamů OSS](https://vat-one-stop-shop.ec.europa.eu/one-stop-shop/record-keeping-and-audits-oss_en).
