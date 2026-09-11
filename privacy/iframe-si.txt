@@ -1,0 +1,2 @@
+<iframe src="https://vaclavstepar.github.io/stepar-legal/si/privacy.html" title="Politika zasebnosti" width="100%" height="900" style="display:block;width:100%;height:900px;border:0;" loading="lazy" referrerpolicy="no-referrer"></iframe>
+<p><a href="https://vaclavstepar.github.io/stepar-legal/si/privacy.html" target="_blank" rel="noopener noreferrer">Odpri politiko zasebnosti v ločenem oknu</a></p>
