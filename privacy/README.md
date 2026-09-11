@@ -1,6 +1,6 @@
 # Zásady ochrany osobních údajů ŠTĚPAŘ
 
-Aktuální vydání: **česká verze 1.0, účinnost 11. 9. 2026**, vydaná na výslovný pokyn uživatele. Bez označení pracovního návrhu. Platí pro www.stepar.cz; ostatní jazykové verze nejsou tímto vydáním vytvořeny.
+Aktuální vydání: **česká verze 1.0, účinnost 11. 9. 2026**, vydaná na výslovný pokyn uživatele. Bez označení pracovního návrhu. Česká verze platí pro www.stepar.cz. Bulharská verze 1.0 byla následně vydána pro www.stepar.bg se stejnou účinností.
 
 ## Publikace
 - `cz/privacy.html`: stabilní iframe loader; zachovat adresu.
@@ -35,3 +35,8 @@ Tyto provozní otázky neměnit v zákaznické formulářové výzvy a nevracet 
 Před obsahovou změnou ověřit aktuální main, archivovat předchozí verzi pod jednoznačným názvem a měnit zdroj i HTML atomicky. Zachovat stabilní URL, nezasahovat do OP ani odstoupení. Po commitu ověřit Pages workflow a veřejný obsah. Otevřený iframe se obnoví při novém načtení stránky.
 Půlroční automatizace ID 6aa3b750f4348191858d748fe7c3b8cf: první kontrola 11. 3. 2027, poté každých šest měsíců. Při rozporu se starším promptem automatizace platí aktuální potvrzení výše a finální stav verze 1.0.
 Kontrolovat oficiální zdroje EU a zemí provozovaných e-shopů; změny promítnout jen do existujících relevantních jazykových verzí. Rozlišovat platné právo, schválené budoucí změny a návrhy. Udržovat záznamy revizí a zdroje. Při nejasném právním dopadu nebo neznámém provozním faktu neodhadovat; oznámit konkrétní omezení.
+
+## Bulharská verze — 11. 9. 2026
+Vydána `bg/privacy.html` (stabilní loader), `bg/privacy-current.html`, zdroj `privacy/bg-source.md`, archiv `archive/bg/privacy-2026-09-11-v1.0.html` a kód `privacy/iframe-bg.txt`.
+Adresa: https://vaclavstepar.github.io/stepar-legal/bg/privacy.html
+Bulharskou verzi zahrnout do existující půlroční revize společně s českou. Při změnách společných faktů upravit obě relevantní verze. Zachovat bulharský jazyk a KZLD, národní označení článků GDPR (а, б, в, е), českou identitu správce a jasné označení českých účetních zákonů. Kontakt info@stepar.bg je zveřejněný na stepar.bg; info@stepar.cz ponechán jako alternativní centrální kontakt. Nejde o nové vytvoření právního subjektu v Bulharsku. Úplný audit bulharské cookie implementace nebyl proveden; stejná omezení technického ověření jako u české verze.
