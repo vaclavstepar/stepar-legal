@@ -20,11 +20,13 @@ jobs:
         shell: bash
         run: |
           cat .build/sk-reklamacny-formular/part01 \
-              .build/sk-reklamacny-formular/part02a \
+              .build/sk-reklamacny-formular/chunk02a \
+              .build/sk-reklamacny-formular/chunk02b \
               .build/sk-reklamacny-formular/part02b \
               .build/sk-reklamacny-formular/part03 \
               .build/sk-reklamacny-formular/part04a \
-              .build/sk-reklamacny-formular/part04b \
+              .build/sk-reklamacny-formular/chunk07a \
+              .build/sk-reklamacny-formular/chunk07b \
               .build/sk-reklamacny-formular/part05 > /tmp/reklamacny-formular.b64
           test "$(wc -c < /tmp/reklamacny-formular.b64)" -eq 53492
           base64 --decode /tmp/reklamacny-formular.b64 > sk/reklamacny-formular.docx
