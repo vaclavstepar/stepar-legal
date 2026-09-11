@@ -50,3 +50,8 @@ Zahrnout ES do stávající půlroční revize spolu s CZ a BG; případné spol
 Vydána finální FR verze 1.0 pro www.stepar.fr: `fr/privacy.html`, `fr/privacy-current.html`, `privacy/fr-source.md`, archiv `archive/fr/privacy-2026-09-11-v1.0.html`, `privacy/iframe-fr.txt`.
 URL https://vaclavstepar.github.io/stepar-legal/fr/privacy.html
 Zahrnout FR do stávající půlroční revize spolu s CZ, BG a ES. Zachovat kontakt info@stepar.fr, CNIL a českou identitu správce. Účetní lhůty jsou povinnosti české společnosti, nejde o vytvoření francouzského subjektu. Technická omezení prověření uvedená výše trvají; nezaměňovat lokalizaci za kompletní audit implementace. OP a odstoupení beze změny.
+
+## Chorvatská verze — 11. 9. 2026
+Vydána finální HR verze 1.0 pro www.stepar.hr: `hr/privacy.html`, `hr/privacy-current.html`, `privacy/hr-source.md`, archiv `archive/hr/privacy-2026-09-11-v1.0.html`, `privacy/iframe-hr.txt`.
+URL https://vaclavstepar.github.io/stepar-legal/hr/privacy.html
+Zahrnout HR do stávající půlroční revize spolu s CZ, BG, ES a FR. Zachovat kontakt info@stepar.hr a AZOP, českou identitu správce a označení českých účetních povinností. Nezavádět domnělý chorvatský právní subjekt. Potvrzené služby a lhůty odpovídají české verzi. Technické meze ověření výše nadále platí; lokalizace není úplný cookie audit. OP ani odstoupení neměněny.
