@@ -1,11 +1,11 @@
-# Německo – OP pro stepar-med.de, připravené znění pro spuštění
+# Německo – OP pro www.stepar-med.de, připravené znění pro spuštění
 
 Zpracováno 12. 11. 2026. OP jsou novou samostatnou německou verzí, ne překladem českých OP. Nejde o advokátní certifikaci ani ověření provozu dosud nespouštěného e-shopu.
 
 ## Potvrzené zadání a provozní údaje
 
-- ŠTĚPAŘ s.r.o., IČO 07371594, DIČ CZ07371594; identifikace a telefon převzaty z existujících českých OP. Kontaktní e-mail stepar@stepar.cz není nahrazen neověřenou německou adresou.
-- Uživatel potvrdil doménu stepar-med.de, přípravnou fázi obchodu, zahrnutí bylin, čajů, tinktur a mastí JUKL vedle zdravotnického sortimentu.
+- ŠTĚPAŘ s.r.o., IČO 07371594, DIČ CZ07371594; identifikace a telefon převzaty z existujících českých OP. Kontaktní e-mail info@stepar-med.de potvrdil vlastník při následné opravě kontaktů dne 12. 11. 2026.
+- Uživatel potvrdil doménu www.stepar-med.de, přípravnou fázi obchodu, zahrnutí bylin, čajů, tinktur a mastí JUKL vedle zdravotnického sortimentu.
 - Uživatel potvrdil: při běžném odstoupení zpáteční dopravu hradí zákazník; vrací se na Střítežskou 570, 572 01 Polička, ČR. Oprávněná reklamace je odlišná: zákonné náklady nese prodejce.
 - Volba německého práva zjednodušuje německá práva spotřebitele. Text je určen německému trhu; není prohlášen za rakouské OP.
 - Nejsou převzaty dopravní sazby, platební metody, bankovní účty ani dopravci z eBay či jiného e-shopu. Tyto skutečnosti musí být konkrétně uvedeny v připravovaném obchodě před objednáním.

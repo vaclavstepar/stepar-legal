@@ -1,4 +1,4 @@
-# stepar-med.de – úplná sada zákaznických a právních stránek
+# www.stepar-med.de – úplná sada zákaznických a právních stránek
 
 Nová samostatná německá sada připravená 12. 11. 2026. Členění odpovídá rakouskému e-shopu, právní obsah je určen Německu.
 
@@ -43,7 +43,7 @@ Je zobrazen na stránce o zákonné záruce, bez změny grafiky a s textovým vy
 
 ## Doplňující provozní omezení
 
-Sekce „Über unser Unternehmen“ obsahuje i identifikační údaje pod označením Impressum – Anbieterkennzeichnung; v patičce je vhodný také jednoznačný odkaz Impressum na tutéž stránku. Německá doména neznamená německou provozovnu. Kontaktní e-mail nebyl nahrazen neověřenou německou schránkou.
+Sekce „Über unser Unternehmen“ obsahuje i identifikační údaje pod označením Impressum – Anbieterkennzeichnung; v patičce je vhodný také jednoznačný odkaz Impressum na tutéž stránku. Německá doména neznamená německou provozovnu. Kontaktní e-mail info@stepar-med.de byl výslovně potvrzen vlastníkem dne 12. 11. 2026.
 
 Nové texty nebyly vloženy do chráněného německého e-shopu ani do jeho menu. Jsou zveřejněny jako podklady a iframe zdroje. Nejde o potvrzení, že je obchod připraven k prodeji nebo že má v pořádku jednotlivé výrobky JUKL. Úplné podmínky spuštění viz de-shopstart-2026-11-12.md.
 
