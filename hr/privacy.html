@@ -1,19 +1,2 @@
 <!doctype html>
-<html lang="hr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Zaštita osobnih podataka | ŠTĚPAŘ</title><style>body{margin:0;font:14px/1.6 Arial,sans-serif}.loading{padding:20px}</style></head><body>
-<div id="legal-content" class="loading" aria-live="polite">Učitavanje politike privatnosti…</div>
-<script>
-(async function(){
- const target=document.getElementById('legal-content');
- try{
-  const response=await fetch('privacy-current.html?t='+Date.now(),{cache:'no-store'});
-  if(!response.ok) throw new Error('HTTP '+response.status);
-  const doc=new DOMParser().parseFromString(await response.text(),'text/html');
-  document.title=doc.title||document.title;
-  for(const style of doc.querySelectorAll('style')) document.head.appendChild(style.cloneNode(true));
-  target.className=''; target.replaceChildren(...Array.from(doc.body.childNodes));
- }catch(error){
-  target.textContent='Tekst nije moguće učitati. ';
-  const link=document.createElement('a');link.href='privacy-current.html';link.textContent='Izravno otvori tekst';target.appendChild(link);
- }
-})();
-</script><noscript><p><a href="privacy-current.html">Otvori politiku privatnosti</a></p></noscript></body></html>
+<html lang="hr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,follow"><title>Zaštita osobnih podataka | ŠTĚPAŘ</title><style>html,body{margin:0;padding:0;background:transparent}body{font:15px/1.6 Arial,sans-serif}.loading{max-width:1040px;margin:auto;padding:24px 18px;box-sizing:border-box}</style></head><body><div class="loading"><p>Učitavanje važećeg dokumenta… <a href="privacy-current.html">Otvori dokument izravno</a></p></div><script src="../assets/legal-loader.js" data-document="privacy-current.html"></script></body></html>

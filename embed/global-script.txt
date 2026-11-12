@@ -1,0 +1,1 @@
+<script src="https://vaclavstepar.github.io/stepar-legal/assets/legal-parent.js" defer></script>
