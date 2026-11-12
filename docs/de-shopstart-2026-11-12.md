@@ -10,6 +10,10 @@ Zpracováno 12. 11. 2026. OP jsou novou samostatnou německou verzí, ne překla
 - Volba německého práva zjednodušuje německá práva spotřebitele. Text je určen německému trhu; není prohlášen za rakouské OP.
 - Nejsou převzaty dopravní sazby, platební metody, bankovní účty ani dopravci z eBay či jiného e-shopu. Tyto skutečnosti musí být konkrétně uvedeny v připravovaném obchodě před objednáním.
 
+## Upřesnění plateb vlastníkem 12. 11. 2026
+
+Pro Německo platí výhradně dobírka, GoPay a bankovní převod. Nepřebírat PayPal ani fakturu se splatností 14 dnů z Rakouska. Stránka Versand und Zahlung a GDPR byly podle tohoto zadání opraveny; obecný bod 4.2 AGB je s těmito metodami v souladu. Skutečné sazby a dostupnost metod je potřeba sladit s košíkem. Viz de-payments-2026-11-12.md.
+
 ## Nutné sladit před zahájením prodeje
 
 1. Zpřístupnit obchod. Veřejné načtení webu vrací HTTP 401 „Pristup zamitnut“. Košík, e-maily, sortiment ani funkci odstoupení nebylo možné ověřit. Nejde o úspěšnou kontrolu těchto funkcí.

@@ -19,9 +19,9 @@ Rozcestník s náhledy a kopírovatelnými kódy: https://vaclavstepar.github.io
 
 ## Potvrzené doplnění vlastníka
 
-Vlastník potvrdil stejné nastavení dopravy a plateb jako v Rakousku. Živá rakouská stránka https://www.stepar-med.at/versand-und-zahlung-p1000003.htm byla načtena 12. 11. 2026: GLS 6 EUR, PayPal bez příplatku, faktura pouze pro veřejné instituce a stálé zákazníky, splatnost 14 dnů, bez příplatku. Vlastník samostatně potvrdil dopravu zdarma nad 200 EUR. Německý text proto používá přesně hodnotu zboží **více než 200 EUR**; tuto hranici je nutné stejně nastavit v košíku. Rakouské formulace „über“ a jiné bannery „ab“ nejsou samy o sobě důkazem stejného nastavení při částce přesně 200 EUR.
+Aktuální oprava vlastníka ze dne 12. 11. 2026: německý obchod používá **pouze dobírku, GoPay a platbu na účet (bankovní převod)**. PayPal se nepoužívá a platba na fakturu se splatností 14 dnů není potvrzenou německou platební metodou. Toto výslovné zadání nahrazuje dřívější převzetí rakouských platebních podmínek. Cenu dobírky ani konkrétní možnosti v bráně GoPay neodhadovat; zákazník je musí vidět před objednáním. Doprava zůstává GLS 6 EUR, zdarma při hodnotě zboží více než 200 EUR, podle dosavadního potvrzení.
 
-Vlastník potvrdil použití stejných služeb jako u stávajících e-shopů: Weby24/Nardo, POHODA/DragonCloud, GLS/Packeta, GoPay/PayPal, Google Analytics/Ads, Smartsupp s AI. Německé GDPR vychází z aktuálního společného podkladu privacy/cz-source.md a tohoto potvrzení. Konkrétní cookies, příjemci, podmínky aktivace, retence a formulářový reCAPTCHA na německém webu se před startem musí zkontrolovat. Podmíněná zmínka platebních služeb nepřidává GoPay mezi aktuálně potvrzené platební metody německého košíku.
+GDPR nyní popisuje GoPay, bankovní převod a dobírku a neuvádí PayPal ani jeho předávání dat. GoPay je dle aktuální oficiální dokumentace GoPay Czech odštěpný závod, pobočka Worldline NV, IČO 22177469, Senovážné nám. 1736, 370 01 České Budějovice. Ostatní potvrzené služby Weby24/Nardo, POHODA/DragonCloud, GLS/Packeta, Google Analytics/Ads a Smartsupp s AI se touto opravou nemění. Konkrétní cookies, podmínky aktivace, retence a formulářový reCAPTCHA na německém webu se před startem musí zkontrolovat. Podrobnosti a zdroj ověření: de-payments-2026-11-12.md.
 
 ## Online widerrufen – nezaměňovat text s funkčním formulářem
 
