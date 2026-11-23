@@ -3,6 +3,8 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: ["main"]
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -15,7 +17,17 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  validate-publication:
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/prepare-publication.py
+      - run: node tests/legal-frame.mjs
   deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: validate-publication
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -27,13 +39,16 @@ jobs:
       - name: Build current legal document catalogue
         run: python3 scripts/legal-catalogue.py
 
+      - name: Stage public files
+        run: python3 scripts/prepare-publication.py --output "$RUNNER_TEMP/legal-pages"
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: ${{ runner.temp }}/legal-pages
 
       - name: Deploy to GitHub Pages
         id: deployment

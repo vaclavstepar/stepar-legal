@@ -13,4 +13,8 @@ Aktualizace právních dokumentů budou verzované v GitHubu, aby bylo možné d
 
 ## Společné zobrazení iframe
 
-Všech 40 stabilních loaderů sdílí assets/legal-loader.js. Odstavce jsou zarovnané do bloku; automatická výška vyžaduje jednorázové vložení assets/legal-parent.js do globální šablony e-shopů. Postup a aktuální omezení: [docs/iframe-display.md](docs/iframe-display.md). Schválené zdroje a historické archivy se touto zobrazovací změnou nepřepisují.
+Všech 40 stabilních loaderů sdílí assets/legal-loader.js. Odstavce jsou zarovnané do bloku; automatická výška vyžaduje jednorázové vložení assets/legal-parent.js do globální šablony e-shopů. Schválené zdroje a historické archivy se touto zobrazovací změnou nepřepisují.
+
+## Publikace
+
+Repozitář obsahuje zákaznické dokumenty, jejich publikované verze a soubory potřebné k publikaci. Před zveřejněním běží kontrola povolených cest a častých formátů přístupových údajů. GitHub Pages přebírá pouze povolené soubory a vygenerovaný katalog.
